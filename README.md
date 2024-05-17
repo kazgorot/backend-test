@@ -1,3 +1,9 @@
+# To build and run
+* make run
+
+
+# Original description
+
 TODO:
 - проставь энвы (см. .env.example)
 - запусти постгрю (тестилось на 15й версии, но другая тоже подойдет) и создай базу
