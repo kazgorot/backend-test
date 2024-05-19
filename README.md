@@ -1,4 +1,11 @@
 # To build and run
+## init db
+* rm -rf data && mkdir data
+* make db-up
+* make migrate
+### run as service in docker
+* make up
+### to debug
 * make run
 
 
